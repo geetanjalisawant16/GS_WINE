@@ -14,3 +14,4 @@ CourseWork1_Group19 folder includes 3 files:
 	RandomForestClassifier, Logistic regression, K-Neighbors Classifier)
 
 We are using Scikit library here (https://scikit-learn.org/stable/)
+draw_convnet :Python script for illustrating Convolutional Neural Network (ConvNet)
