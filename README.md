@@ -1,7 +1,6 @@
-Snehal Desai (K2039389)
-Geetanjali Sawant (K1144343) 
-Revathipriya Selvamani (K2007882)
-Ganesh Kallepu (K2040320)
+
+Geetanjali Sawant
+
 
 CourseWork1_Group19 folder includes 3 files:
 1) Loading_Wine_Dataset.py
